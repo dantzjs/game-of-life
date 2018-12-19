@@ -1,0 +1,33 @@
+body {margin: 0; background: #eee;}
+
+#app {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	flex-direction: column;
+	height: 100%;
+	padding: 2rem;
+	background: #17a2dd;
+}
+
+#grid {
+	display: grid;
+	grid-template-columns: repeat(60, 1fr);
+	width: 80%;
+}
+
+.cell { cursor: cell }
+
+#controls {
+	display: flex;
+	flex-direction: row;
+	align-items: flex-start;
+	width: 80%;
+}
+
+#credits {
+	height: 100vh;
+	background: #eee;
+	padding: 1rem;
+	padding-left: 2rem;
+}
