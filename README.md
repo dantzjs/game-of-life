@@ -1,3 +1,9 @@
+## Final Note
+
+This repository is part of my beginnings in programming. The project is full of bad practices and potential bugs without clear readability management.
+
+I have kept this project because it has sentimental value for me. Instead of renewing it I have decided to archive it as a memory
+
 # Juego de la vida
 
 El juego de la vida es un autómata celular diseñado por el matemático británico *John Horton Conway* en 1970.
